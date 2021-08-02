@@ -59,6 +59,18 @@ experience:
         * Established a water pollution simulation model of Yangtze River Delta region with ENVI and SPSS. 
         * Modelled the distribution pattern of urban residents of the Pearl Delta region with GIS and statistics methods. 
 
+  - title: GIS and Statistics Analyst 
+    company: Shenzhen Visiondom ESG Co., Ltd                                          
+    company_url: ''
+    company_logo: org-gc
+    location: Beijing, China
+    date_start: '2020-11-01'
+    date_end: '2021-01-01'
+    description: |2-
+        
+        * Conducted spatial and statistics analysis on the land-use data of Hefei city during 2017-2019 in ArcGIS, and completed summarizing reports. 
+        * Vectorized, checked and repaired the topology errors from mangrove polygons of four provinces in ArcGIS.
+
        
 design:
   columns: '2'
