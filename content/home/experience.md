@@ -34,12 +34,23 @@ experience:
         * Taught Python and QGIS to sophomore students and tutored them to complete the assignments.
         * Drafted the QGIS and GRASS tutorial on digital terrain analysis.
 
+  - title: Remote Sensing Engineer
+    company: Piesat Information Technology Co., Ltd 
+    company_url: ''
+    company_logo: org-gc
+    location: Beijing, China
+    date_start: '2021-03-01'
+    date_end: '2021-6-30'
+    description: |2-
         
-  - title:  Remote Sensing Engineer
-    company: Piesat Information Technology Co., Ltd 		
+        * Tested the C++ and Python algorithm of PIE-Engine, a developed software of PIESAT.
+        * Processed the remote sensing data with ERDAS and ArcGIS, and completed writing the user’s manual.
+        
+  - title:  
+    company: 		
     company_url: ''
     company_logo: org-x
-    location: Beijing, China 
+    location:  
     date_start: '2021-03-01'
     date_end: '2021-6-30'
     description:  |2-
