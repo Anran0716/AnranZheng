@@ -25,7 +25,7 @@ experience:
   - title: Teaching and Research assistant
     company: Capital Normal University
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Beijing, China
     date_start: '2020-09-01'
     date_end: ''
