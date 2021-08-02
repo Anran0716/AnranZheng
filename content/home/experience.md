@@ -35,15 +35,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying        
-  - title:  Teaching and Research assistant 
-    company: Capital Normal University 
-    company_url: ''
-    company_logo: org-x
-    location: Beijing
-    date_start: '2020-09-01'
-    date_end: '2021-8-31'
-    description: * Taught Python and QGIS to sophomore students and tutored them to complete the assignments.
-        * Drafted the QGIS and GRASS tutorial on digital terrain analysis. 
+. 
 
 design:
   columns: '2'
