@@ -37,7 +37,7 @@ experience:
   - title: Remote Sensing Engineer
     company: Piesat Information Technology Co., Ltd 
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Beijing, China
     date_start: '2021-03-01'
     date_end: '2021-06-01'
@@ -50,7 +50,7 @@ experience:
   - title: GIS and Statistics Analyst 
     company: Shenzhen Visiondom ESG Co., Ltd                                          
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Beijing, China
     date_start: '2020-11-01'
     date_end: '2021-01-01'
@@ -62,7 +62,7 @@ experience:
   - title: GIS and Statistics Analyst 
     company: Chinese Academy of Surveying and Mapping                                         
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Beijing, China
     date_start: '2020-10-01'
     date_end: '2020-07-01'
