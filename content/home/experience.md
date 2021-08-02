@@ -45,6 +45,19 @@ experience:
         
         * Tested the C++ and Python algorithm of PIE-Engine, a developed software of PIESAT.
         * Processed the remote sensing data with ERDAS and ArcGIS, and completed writing the user’s manual.
+    
+   
+  - title: GIS and Statistics Analyst 
+    company: Shenzhen Visiondom ESG Co., Ltd                                          
+    company_url: ''
+    company_logo: org-gc
+    location: Beijing, China
+    date_start: '2020-11-01'
+    date_end: '2021-01-01'
+    description: |2-
+        
+        * Established a water pollution simulation model of Yangtze River Delta region with ENVI and SPSS. 
+        * Modelled the distribution pattern of urban residents of the Pearl Delta region with GIS and statistics methods. 
 
         
 
