@@ -29,8 +29,7 @@ experience:
     location: Beijing
     date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        
+    description: 
         * Taught Python and QGIS to sophomore students and tutored them to complete the assignments.
         * Drafted the QGIS and GRASS tutorial on digital terrain analysis. 
  
