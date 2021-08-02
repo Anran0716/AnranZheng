@@ -70,7 +70,7 @@ experience:
         
         * Conducted spatial and statistics analysis on the land-use data of Hefei city during 2017-2019 in ArcGIS, and completed summarizing reports. 
         * Vectorized, checked and repaired the topology errors from mangrove polygons of four provinces in ArcGIS.
-
+        * Analyzed the land use changing pattern of Yeyahu National Wetland Park within 8 years with remote sensing and landscape analysis softwares. 
        
 design:
   columns: '2'
