@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: GIS
 - description: 100%
-  icon: fa-satellite
+  icon: satellite
   icon_pack: fas
   name: Remote Sensing
 - description: 100%
