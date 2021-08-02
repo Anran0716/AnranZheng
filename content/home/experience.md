@@ -34,19 +34,18 @@ experience:
         * Taught Python and QGIS to sophomore students and tutored them to complete the assignments.
         * Drafted the QGIS and GRASS tutorial on digital terrain analysis.
 
-  - title: CEO
-    company: GenCoin
+  - title: Remote Sensing Engineer
+    company: Piesat Information Technology Co., Ltd 
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2020-01-01'
-    date_end: ''
+    location: Beijing, China
+    date_start: '2021-03-01'
+    date_end: '2021-06-01'
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Tested the C++ and Python algorithm of PIE-Engine, a developed software of PIESAT.
+        * Processed the remote sensing data with ERDAS and ArcGIS, and completed writing the user’s manual.
+
         
 
 design:
