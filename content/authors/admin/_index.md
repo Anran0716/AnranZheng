@@ -3,9 +3,10 @@ title: Anran Zheng
 role: Master of Urban Spatial Analytics
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Spatial Analysis and Modeling
+- Spatial Epidemiology
+- Land Use Change Analysis
+- Smart Cities
 social:
   - icon: envelope
     icon_pack: fas
