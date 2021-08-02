@@ -40,10 +40,7 @@ feature:
   icon: cuttlefish
   icon_pack: fab
   name: C++
-- description: 20%
-  icon: java
-  icon_pack: fab
-  name: Java
+
 
 
 
