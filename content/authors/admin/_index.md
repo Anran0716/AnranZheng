@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: anranz@design.upenn.edu
+    link: mailto:anranz@design.upenn.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anran-zheng-b214891b7/
