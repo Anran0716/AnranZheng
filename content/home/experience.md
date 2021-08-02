@@ -32,17 +32,21 @@ experience:
     description: |2-
         
         * Taught Python and QGIS to sophomore students and tutored them to complete the assignments.
-        * Drafted the QGIS and GRASS tutorial on digital terrain analysis
+        * Drafted the QGIS and GRASS tutorial on digital terrain analysis.
 
         
-  - title:  
-    company:  
+  - title:  Remote Sensing Engineer
+    company: Piesat Information Technology Co., Ltd 		
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing, China 
+    date_start: '2021-03-01'
+    date_end: '2021-6-30'
+    description:  |2-
+        
+        * Tested the C++ and Python algorithm of PIE-Engine, a developed software of PIESAT.
+        * Processed the remote sensing data with ERDAS and ArcGIS, and completed writing the user’s manual.
+
 
 design:
   columns: '2'
