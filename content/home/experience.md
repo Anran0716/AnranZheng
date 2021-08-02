@@ -58,9 +58,9 @@ experience:
         
         * Established a water pollution simulation model of Yangtze River Delta region with ENVI and SPSS. 
         * Modelled the distribution pattern of urban residents of the Pearl Delta region with GIS and statistics methods. 
-  
+ 
    - title: GIS and Statistics Analyst 
-    company: Chinese Academy of Surveying and Mapping	                                       
+    company: Chinese Academy of Surveying and Mapping	                                          
     company_url: ''
     company_logo: org-gc
     location: Beijing, China
@@ -72,8 +72,7 @@ experience:
         * Vectorized, checked and repaired the topology errors from mangrove polygons of four provinces in ArcGIS.
         * Analyzed the land use changing pattern of Yeyahu National Wetland Park within 8 years with remote sensing and landscape analysis softwares. 
 
-        
-
+       
 design:
   columns: '2'
 ---
