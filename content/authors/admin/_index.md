@@ -27,7 +27,7 @@ education:
       year: 2021
     - course: "Certificate of Undergraduate Study in Geographic Information System "
       institution: Northern Illinois University
-      year: 2018
+      year: 2020
 email: anranz@design.upenn.edu
 superuser: true
 highlight_name: false
