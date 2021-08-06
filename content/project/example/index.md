@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Spatiotemporal transmission pattern of the COVID-19 in New York             
+summary: Capital Normal University Geography Talent Development Program	
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
