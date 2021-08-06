@@ -1,6 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Spatiotemporal transmission pattern of the COVID-19 in New York             
+summary: 
+	Visualized the spatiotemporal characteristics of the COVID-19 with ArcGIS and Python.
+	Conducted spatial autocorrelation and spatiotemporal scanning analysis to detect the COVID-19 clusters.
+	Analyzed the factors influencing the COVID-19 spreading with Geodetector method.
+
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
