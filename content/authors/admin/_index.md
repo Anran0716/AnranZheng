@@ -3,10 +3,10 @@ title: Anran Zheng
 role: Master of Urban Spatial Analytics
 bio: ""
 interests:
-- Spatial Analysis and Modeling
-- Spatial Epidemiology
-- Land Use Change Analysis
-- Smart Cities
+  - Spatial Analysis and Modeling
+  - Spatial Epidemiology
+  - Land Use Change Analysis
+  - Smart Cities
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,9 +25,9 @@ education:
     - course: "BS in Geographic Information Science "
       institution: Capital Normal University
       year: 2021
-    - course: "Certificate of Undergraduate Study in Geographic Information System "
+    - course: BS in Geography
       institution: Northern Illinois University
-      year: 2020
+      year: 2021
 email: anranz@design.upenn.edu
 superuser: true
 highlight_name: false
