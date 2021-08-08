@@ -667,7 +667,7 @@ summary: >-
   <!--EndFragment-->
 tags:
   - COVID-19
-external_link: https://maiimg.com/pdf/?e=agtQCDdGwFKWgh
+external_link: https://pdf.ac/ExKC3
 image:
   caption: ""
   focal_point: Smart
