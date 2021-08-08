@@ -1,6 +1,6 @@
 ---
 title: Spatiotemporal transmission pattern of the COVID-19 in New York
-date: 2016-04-27T00:00:00Z
+date: 2021-08-08T04:49:17.974Z
 summary: Capital Normal University Geography Talent Development Program
 tags:
   - COVID-19
