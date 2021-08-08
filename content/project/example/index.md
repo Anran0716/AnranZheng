@@ -1,5 +1,6 @@
 ---
-title: Spatiotemporal transmission pattern of the COVID-19 in New York
+title: "Spatiotemporal characteristics and risk factors of the COVID-19 pandemic
+  in New York State: implication to future policies "
 date: 2021-08-08T04:49:17.974Z
 summary: >-
   <!--\[if gte mso 9]><xml>
