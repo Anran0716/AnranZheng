@@ -2,7 +2,7 @@
 title: Spatiotemporal transmission pattern of the COVID-19 in New York             
 summary: Capital Normal University Geography Talent Development Program	
 tags:
-- Deep Learning
+- COVID-19
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
