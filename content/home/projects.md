@@ -31,6 +31,7 @@ content:
     tag: Environmental modelling
   - name: Hydrology
     tag: Hydrology
+    summary:This study aims to use digital elevation model (DEM) and satellite imagery to classify the lakes and evaluate their changes in response to global warming. Specifically, this study contains four parts
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
