@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: COVID-19
+    tag: COVID-19
+  - name: Environmental modelling
+    tag: Environmental modelling
+  - name: Hydrology
+    tag: Hydrology
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
