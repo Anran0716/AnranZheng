@@ -649,7 +649,7 @@ image:
 
 <!--\\[if gte mso 10]>
 <style>
-.MsoNormalTable
+MsoNormalTable
 	{mso-style-name:"Table Normal";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
