@@ -1,14 +1,14 @@
 ---
 title: "Spatiotemporal characteristics and risk factors of the COVID-19 pandemic
   in New York State: implication to future policies "
-subtitle: ""
+subtitle: Capital Normal University Geography Talent Development Program
 date: 2021-08-11T10:20:43.505Z
 summary: ""
 draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - COVID-19
   - spatial autocorrelation
