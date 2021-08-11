@@ -17,11 +17,11 @@ tags:
 categories: []
 projects: []
 image:
-  caption: Occurrence of COVID-19 hotspot in New York State from March to December 2020
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: hotspot-frequency-已调整大小-.png
+  filename: ""
 ---
 <!--\[if gte mso 9]><xml>
  <w:WordDocument>
@@ -673,5 +673,7 @@ The Coronavirus Disease 19 (COVID-19) has been spreading among New York State si
 ![](capture.jpg "Timeline of newly confirmed cases, clusters and related epidemic prevention policies of COVID-19 in New York State (the upper part shows the time series of the daily confirmed cases with the public health interventions; and the lower part shows the timeline and cluster time for each cluster)")
 
 ![](curve.jpg "New York State Epidemic Development Curve, (a) cumulative confirmed and deaths, (b) new confirmed COVID-19 cases. ")
+
+![](hotspot-frequency-已调整大小-.png "Occurrence of COVID-19 hotspot in New York State from March to December 2020")
 
 <!--EndFragment-->
