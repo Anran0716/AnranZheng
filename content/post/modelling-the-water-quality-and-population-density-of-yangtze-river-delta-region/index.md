@@ -10,9 +10,9 @@ authors:
   - admin
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Hydrology
-  - DEM
-  - Arcpy
+  - Land use changes
+  - Remote Sensing
+  - Environmental Modelling
 categories: []
 projects: []
 image:
