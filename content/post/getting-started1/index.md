@@ -3,8 +3,8 @@ title: Modelling the water quality and population density of Yangtze River Delta
   Region
 subtitle: "Research project of Shenzhen Visiondom ESG Co.,
   Ltd                                          "
-date: 2021-08-16T11:05:30.304Z
-summary: ""
+date: 2021-08-18T08:18:23.959Z
+summary: '![](esg.png "Modelling of the water pollution index in Shanghai ")'
 draft: false
 featured: false
 authors:
