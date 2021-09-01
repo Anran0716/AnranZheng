@@ -28,7 +28,7 @@ experience:
     company_logo: 
     location: Beijing, China
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2021-08-31'
     description: |2-
         
         * Taught Python and QGIS to sophomore students and tutored them to complete the assignments.
