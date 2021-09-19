@@ -26,7 +26,7 @@ author_notes:
     manuscript.
 doi: https://doi.org/10.3390/ijgi10090627
 publication: https://www.mdpi.com/2220-9964/10/9/627/htm
-abstract: >-
+abstract: >+
   The Coronavirus disease 2019 (COVID-19) has been spreading in New York State
   since March 2020, posing health and socioeconomic threats to many areas.
   Statistics of daily confirmed cases and deaths in New York State have been
@@ -46,10 +46,12 @@ abstract: >-
   months and explains the relationship between the disease transmission and
   influencing factors.
 
-
-  Keywords: COVID-19; Geodetector; New York State; spatial autocorrelation; space-time scan statistics
 draft: false
 featured: false
+tags:
+  - COVID-19
+  - space-time scan statistics
+  - Geodetector; New York State; spatial autocorrelation
 image:
   filename: c3-已调整大小-.png
   focal_point: ""
