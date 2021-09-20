@@ -28,15 +28,15 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 80%
+- description: 90%
   icon: python
   icon_pack: fab
   name: Python
-- description: 60%
+- description: 90%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 20%
+- description: 30%
   icon: cuttlefish
   icon_pack: fab
   name: C++
