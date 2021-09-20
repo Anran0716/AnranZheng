@@ -4,27 +4,10 @@ title: "Spatiotemporal Characteristics and Risk Factors of the COVID-19 Pandemic
 publication_types:
   - "2"
 authors:
-  - Zheng
-  - A.; Wang
-  - T.; Li
-  - X.
-author_notes:
-  - Conceptualization
-  - Anran Zheng and Tao Wang; methodology
-  - Anran Zheng and Tao Wang; software
-  - Anran Zheng; validation
-  - Anran Zheng and Tao Wang; formal analysis
-  - Anran Zheng; investigation
-  - Anran Zheng; resources
-  - Anran Zheng and Tao Wang; writing—original draft preparation
-  - Anran Zheng; writing—review and editing
   - Anran Zheng
-  - Xiaojuan Li and Tao Wang; visualization
-  - Anran Zheng and Tao Wang; supervision
-  - Tao Wang; funding acquisition
-  - Tao Wang. All authors have read and agreed to the published version of the
-    manuscript.
-doi: https://doi.org/10.3390/ijgi10090627
+  - Tao Wang
+  - Xiaojuan Li
+
 publication: https://www.mdpi.com/2220-9964/10/9/627/htm
 abstract: >+
   The Coronavirus disease 2019 (COVID-19) has been spreading in New York State
@@ -51,7 +34,9 @@ featured: false
 tags:
   - COVID-19
   - space-time scan statistics
-  - Geodetector; New York State; spatial autocorrelation
+  - Geodetector
+  - New York State
+  - spatial autocorrelation
 image:
   filename: c3-已调整大小-.png
   focal_point: ""
