@@ -699,4 +699,5 @@ Off campus, I have worked extensively in academy institutes and renowned GIS com
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 {{< icon name="laptop" pack="fas" >}} See my [portfolio](https://anran0716.github.io/).
