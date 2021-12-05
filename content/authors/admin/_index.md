@@ -11,6 +11,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anran-zheng-b214891b7/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Anran0716?tab=repositories
 organizations:
   - name: "University of Pennsylvania "
     url: https://www.design.upenn.edu/musa/about
@@ -696,3 +699,4 @@ Off campus, I have worked extensively in academy institutes and renowned GIS com
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="laptop" pack="fas" >}} See my [portfolio](https://anran0716.github.io/).
