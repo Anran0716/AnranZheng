@@ -64,8 +64,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Beijing, China
-    date_start: '2020-10-01'
-    date_end: '2020-07-01'
+    date_start: '2020-07-01'
+    date_end: '2020-10-01'
     description: |2-
         
         * Conducted spatial and statistics analysis on the land-use data of Hefei city during 2017-2019 in ArcGIS, and completed summarizing reports. 
