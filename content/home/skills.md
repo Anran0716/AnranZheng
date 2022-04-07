@@ -36,10 +36,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 30%
-  icon: cuttlefish
+- description: 90%
+  icon: computer
   icon_pack: fab
-  name: C++
+  name: Machine Learning
 
 
 
