@@ -6,7 +6,7 @@ interests:
   - Spatial Analysis and Modeling
   - Spatial Epidemiology
   - Land Use Change Analysis
-  - Smart Cities
+  - Urban and Regional Planning
 social:
   - icon: linkedin
     icon_pack: fab
