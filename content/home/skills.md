@@ -37,7 +37,7 @@ feature:
   icon_pack: fab
   name: R
 - description: 90%
-  icon: computer
+  icon: laptop
   icon_pack: fas
   name: Machine Learning
 
