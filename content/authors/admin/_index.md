@@ -692,7 +692,7 @@ highlight_name: false
 
 <!--StartFragment-->
 
-My research interest focuses on health and medical geography, land use modelling, Geostatistics, spatial analysis and modeling. With spatial analysis techniques and quantitative methods, I investigated the spatiotemporal clustering patterns and risk factors of COVID-19 during different epidemic stages in New York State. During my undergraduate studies in Capital Normal University, I worked as teaching and research assistant. My primary job was: (1) tutored students on using Python and ArcGIS. (2) drafted the QGIS and GRASS tutorial on digital terrain analysis.
+My research interest focuses on urban and regional planning, health and medical geography, land use modelling,  spatial analysis and modeling. With spatial analysis techniques and quantitative methods, I investigated the spatial accessibility to COVID-19 testing sites in NYC. During my undergraduate studies in Capital Normal University, I worked as teaching and research assistant. My primary job was: (1) tutored students on using Python and ArcGIS. (2) drafted the QGIS and GRASS tutorial on digital terrain analysis.
 
 Off campus, I have worked extensively in academy institutes and renowned GIS companies. I was mainly responsible for analyzing land use changing pattern and its driven factors, using GIS and remote sensing techniques. Currently I am a master student in University of Pennsylvania, with specialization in urban spatial analytics.
 
