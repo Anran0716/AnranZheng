@@ -15,7 +15,7 @@ social:
     link: https://www.linkedin.com/in/anran-zheng-b214891b7/
   - icon: github
     icon_pack: fab
-    link: https://github.com/Anran0716?tab=repositories
+    link: https://github.com/Anran0716
 organizations:
   - name: "University of Pennsylvania "
     url: https://www.design.upenn.edu/musa/about
