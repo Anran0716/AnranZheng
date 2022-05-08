@@ -32,14 +32,14 @@ feature:
   icon: laptop
   icon_pack: fas
   name: Web technologies
-- description: 100%
-  icon: satellite
-  icon_pack: fas
-  name: Remote Sensing
-- description: 90%
-  icon: r-project
+- description: Photography, Photoshop, Illustrator, Final Cut Pro, InDesign 
+  icon: palette
   icon_pack: fab
-  name: R
+  name: Design
+- description: LaTex, Github, SPSS, Excel
+  icon: github
+  icon_pack: fab
+  name: Others
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
