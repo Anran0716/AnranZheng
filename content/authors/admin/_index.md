@@ -696,7 +696,7 @@ highlight_name: false
 
 My research interest focuses on urban and regional planning, health geography, land use modelling, spatial analysis and modeling. As a master student majoring in urban spatial analytics in UPenn, I have conducted numerous projects to address the most pressing city planning problems using GIS, machine learning and web application. Prior to attending UPenn, I have been working as teaching and research assistant of Python and GIS data analysis at CNU and NIU Geovisual Mapping Laboratory.
 
-Apart from academic endeavor, I have concrete working experiences in renowned GIS and RS companies. My primary job was to analyze land use changing pattern and its driven factors, using quantitative methods and remote sensing techniques. This fall I will become a PhD student at University of Florida, concentrating in transportation engineering. 
+Apart from academic endeavor, I have concrete working experiences in renowned GIS and RS companies. My primary job was to analyze land use changing pattern and its driven factors, using quantitative methods and remote sensing techniques. This summer I will become a PhD student at Engineering school of University of Florida, concentrating in transportation engineering. 
 
 
 <!--EndFragment-->
