@@ -34,7 +34,7 @@ feature:
   name: Web technologies
 - description: Photography, Photoshop, Illustrator, Final Cut Pro, InDesign 
   icon: palette
-  icon_pack: fab
+  icon_pack: fas
   name: Design
 - description: LaTex, Github, SPSS, Excel
   icon: github
