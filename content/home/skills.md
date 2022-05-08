@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: ArcGIS, QGIS, ArcGIS Pro, ENVI, ERDAS, Google Earth Engine, GeoDa
   icon: globe-africa
   icon_pack: fas
-  name: GIS
+  name: Spatial Analysis
 - description: 100%
   icon: satellite
   icon_pack: fas
