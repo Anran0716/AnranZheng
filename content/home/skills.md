@@ -20,29 +20,26 @@ feature:
   icon: globe-africa
   icon_pack: fas
   name: Spatial Analysis
+- description: Machine/Deep Learning, data wrangling, modelling and visualization
+  icon: chart-line
+  icon_pack: fas
+  name: Data Analysis
+- description: Python, R, SQL, C, C++
+  icon: python
+  icon_pack: fab
+  name: Programming
+- description: Google Cloud Computing, ETL Pipeline, Airflow, JavaScript, HTML, CSS
+  icon: laptop
+  icon_pack: fas
+  name: Web technologies
 - description: 100%
   icon: satellite
   icon_pack: fas
   name: Remote Sensing
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 90%
-  icon: python
-  icon_pack: fab
-  name: Python
 - description: 90%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 90%
-  icon: laptop
-  icon_pack: fas
-  name: Machine Learning
-
-
-
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
