@@ -4,16 +4,23 @@ role: Master of Urban Spatial Analytics
 bio: ""
 interests:
   - Spatial Analysis and Modeling
-  - Spatial Epidemiology
-  - Land Use Change Analysis
+  - Transportation Engineering
+  - Health Geography
   - Urban and Regional Planning
+  - Land Use Analysis
 social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anran-zheng-b214891b7/
   - icon: github
     icon_pack: fab
-    link: https://github.com/Anran0716?tab=repositories
+    link:  https://github.com/Anran0716
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=AOcaM0YAAAAJ&hl=zh-CN
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 organizations:
   - name: "University of Pennsylvania "
     url: https://www.design.upenn.edu/musa/about
@@ -692,9 +699,10 @@ highlight_name: false
 
 <!--StartFragment-->
 
-My research interest focuses on urban and regional planning, health and medical geography, land use modelling,  spatial analysis and modeling. With spatial analysis techniques and quantitative methods, I investigated the spatial accessibility to COVID-19 testing sites in NYC. During my undergraduate studies in Capital Normal University, I worked as teaching and research assistant. My primary job was: (1) tutored students on using Python and ArcGIS. (2) drafted the QGIS and GRASS tutorial on digital terrain analysis.
+My research interest focuses on urban and regional planning, health geography, land use modelling, spatial analysis and modeling. As a master student majoring in urban spatial analytics in UPenn, I have conducted numerous projects to address the most pressing city planning problems using GIS, machine learning and web application. Prior to attending UPenn, I have been working as teaching and research assistant of Python and GIS data analysis at CNU and NIU Geovisual Mapping Laboratory.
 
-Off campus, I have worked extensively in academy institutes and renowned GIS companies. I was mainly responsible for analyzing land use changing pattern and its driven factors, using GIS and remote sensing techniques. Currently I am a master student in University of Pennsylvania, with specialization in urban spatial analytics.
+Apart from academic endeavor, I have concrete working experiences in renowned GIS and RS companies. My primary job was to analyze land use changing pattern and its driven factors, using quantitative methods and remote sensing techniques. This summer I will become a PhD student at Engineering school of University of Florida, concentrating in transportation engineering. 
+
 
 <!--EndFragment-->
 
