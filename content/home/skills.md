@@ -16,33 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: ArcGIS, QGIS, ArcGIS Pro, ENVI, ERDAS, Google Earth Engine, GeoDa
   icon: globe-africa
   icon_pack: fas
-  name: GIS
-- description: 100%
-  icon: satellite
-  icon_pack: fas
-  name: Remote Sensing
-- description: 100%
+  name: Spatial Analysis
+- description: Machine/Deep Learning, data wrangling, modelling and visualization
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 90%
+  name: Data Analysis
+- description: Python, R, SQL, C, C++
   icon: python
   icon_pack: fab
-  name: Python
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 90%
+  name: Programming
+- description: Google Cloud Computing, ETL Pipeline, Airflow, JavaScript, HTML, CSS
   icon: laptop
   icon_pack: fas
-  name: Machine Learning
-
-
-
+  name: Web technologies
+- description: Photography, Photoshop, Illustrator, Final Cut Pro, InDesign 
+  icon: palette
+  icon_pack: fas
+  name: Design
+- description: LaTex, Github, SPSS, Excel
+  icon: github
+  icon_pack: fab
+  name: Others
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
