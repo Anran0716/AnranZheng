@@ -1,6 +1,5 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -15,7 +14,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -24,7 +23,13 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
+  # Contact details (edit or remove options as required)
+  email: anranz@design.upenn.edu
+  phone: 267 206 6279
+  address:
+    Stuart Weitzman School of Design, University of Pennsylvania, PA 19104
+
 design:
   columns: '2'
 ---
